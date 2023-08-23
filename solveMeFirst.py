@@ -1,3 +1,6 @@
+"""
+Problem 1. Solve Me First. Complete the function solveMeFirst to compute the sum of two integers.
+"""
 def solveMeFirst(a,b):
 	# Hint: Type return a+b below
 	return(a+b)
