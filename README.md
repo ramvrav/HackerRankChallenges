@@ -1,4 +1,4 @@
-# myProjects
+# HackerRankChallenges
 This contains following practice python programs
 
 Problem 1. Solve Me First. Complete the function solveMeFirst to compute the sum of two integers.
