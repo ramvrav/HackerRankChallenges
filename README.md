@@ -31,7 +31,7 @@ Problem 14. Between Two Sets. The getTotalX function should return the number of
 
 Problem 15. Breaking the Records. The breakingRecords function must return an integer array containing the numbers of times she broke her records. Index 0 is for breaking most points records, and index 1 is for breaking least points records.
 
-Problem 16. Birthday Chocolate. Lily has a chocolate bar that she wants to share it with Ron for his birthday. Each of the squares has an integer on it. She decides to share a contiguous segment of the bar selected such that the length of the segment matches Ron's birth month and the sum of the integers on the squares is equal to his birth day. You must determine how many ways she can divide the chocolate.
+Problem 16. Subarray Division. Lily has a chocolate bar that she wants to share it with Ron for his birthday. Each of the squares has an integer on it. She decides to share a contiguous segment of the bar selected such that the length of the segment matches Ron's birth month and the sum of the integers on the squares is equal to his birth day. You must determine how many ways she can divide the chocolate.
 
 Problem 17. Divisible Sum Pairs. You are given an array of n integers, ar = ar[0], ar[1],ar[2],...ar[n-1], and a positive integer, k. Find and print the number of (i,j) pairs where i<j and ar[i] + ar[j] is divisible by k .
 
