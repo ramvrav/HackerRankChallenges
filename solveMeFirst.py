@@ -1,5 +1,6 @@
 """
 Problem 1. Solve Me First. Complete the function solveMeFirst to compute the sum of two integers.
+https://www.hackerrank.com/challenges/solve-me-first/problem
 """
 def solveMeFirst(a,b):
 	# Hint: Type return a+b below
