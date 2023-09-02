@@ -28,16 +28,10 @@ def timeConversion(s):
         return('{}:{}:{}'.format(time_hour,time_splt[1],time_splt[2]))
     else:
         return('{}:{}:{}'.format(time_splt[0],time_splt[1],time_splt[2]))
-        
-    
 
 if __name__ == '__main__':
     f = open(os.environ['OUTPUT_PATH'], 'w')
-
     s = input()
-
     result = timeConversion(s)
-
     f.write(result + '\n')
-
     f.close()
