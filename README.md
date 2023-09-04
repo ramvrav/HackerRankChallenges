@@ -55,3 +55,5 @@ If cat  catches the mouse first, print Cat A.
 If cat  catches the mouse first, print Cat B.
 If both cats reach the mouse at the same time, print Mouse C as the two cats fight and mouse escapes.
 
+Problem 26. There is a string, s, of lowercase English letters that is repeated infinitely many times. Given an integer, n, find and print the number of letter a's in the first n letters of the infinite string.
+
