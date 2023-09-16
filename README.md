@@ -60,3 +60,5 @@ Problem 26. There is a string, s, of lowercase English letters that is repeated 
 Problem 27. Bill Division. Two friends Anna and Brian, are deciding how to split the bill at a dinner. Each will only pay for the items they consume. Brian gets the check and calculates Anna's portion. You must determine if his calculation is correct. For example, assume the bill has the following prices: bill = [2,4,6]. Anna declines to eat item k=bill[2] which costs 6. If Brian calculates the bill correctly, Anna will pay (2+4)/2=3. If he includes the cost of bill=[2], he will calculate (2+4+6)/2=6. In the second case, he should refund 3 to Anna.
 
 Problem 28. Find digit. An integer d is a divisor of an integer n if the remainder of n/d=0. Given an integer, for each digit that makes up the integer determine whether it is a divisor. Count the number of divisors occurring within the integer.
+
+Problem 29. Extra long factorials. Complete the extraLongFactorials function in the editor below. It should print the result and return.
