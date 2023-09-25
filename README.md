@@ -62,3 +62,5 @@ Problem 27. Bill Division. Two friends Anna and Brian, are deciding how to split
 Problem 28. Find digit. An integer d is a divisor of an integer n if the remainder of n/d=0. Given an integer, for each digit that makes up the integer determine whether it is a divisor. Count the number of divisors occurring within the integer.
 
 Problem 29. Extra long factorials. Complete the extraLongFactorials function in the editor below. It should print the result and return.
+
+Problem30. Cut the sticks. You are given a number of sticks of varying lengths. You will iteratively cut the sticks into smaller sticks, discarding the shortest pieces until there are none left. At each iteration you will determine the length of the shortest stick remaining, cut that length from each of the longer sticks and then discard all the pieces of that shortest length. When all the remaining sticks are the same length, they cannot be shortened so discard them.
